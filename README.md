@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,SQL ,Machine Learning**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** **Java** **Sql**
 
 - 📫 How to reach me **huseyinefkanalp@gmail.com**
 
